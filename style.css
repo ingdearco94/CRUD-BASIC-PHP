@@ -1,0 +1,47 @@
+
+input{
+    padding: 5px;
+    border-radius: 6px;
+  
+}
+
+label{
+    padding-left: 35px;
+    color: white;
+
+}
+
+.container2{
+    padding-top: 30px;
+}
+
+table{
+    text-align: center;
+}
+
+.send{
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: darkorange;
+    font-size: 22px;
+    border-radius: 8px;
+    color: white;
+    font-style: italic;
+    
+
+}
+.fondo{
+    background-image: url('img/dogue.jpg');
+}
+
+table{
+    border-radius: 9px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding-top: 30px;
+}
